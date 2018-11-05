@@ -1,8 +1,8 @@
 # CSS-Layout
 [link](http://learnlayout.com/)
 1. [box-sizing](https://thuongphv2312.github.io/CSS-Layout/box-sizing/box-sizing)
-2. [css-margin](https://thuongphv2312.github.io/CSS-Layout/css margin/marginproperty)
-3. [css-position](https://thuongphv2312.github.io/CSS-Layout/css position/position)
+2. [css-margin](https://thuongphv2312.github.io/CSS-Layout/css-margin/marginproperty)
+3. [css-position](https://thuongphv2312.github.io/CSS-Layout/css-position/position)
 4. [css-clear](https://thuongphv2312.github.io/CSS-Layout/css-clear/clear)
 5. [css-clearfixhack](https://thuongphv2312.github.io/CSS-Layout/clearfixhack)
 6. [css-float](https://thuongphv2312.github.io/CSS-Layout/css-float/float)
