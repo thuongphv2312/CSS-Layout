@@ -1,0 +1,30 @@
+.one{
+	border: 1px solid red;
+	width: 900px;
+	margin: 0 auto;
+	overflow: auto;
+	padding: 10px 10px;
+}
+.one1{
+	border: 1px solid blue;
+	width: 300px;
+	float: right;
+
+
+}
+.one2{
+	border: 1px solid yellow;
+	width: 300px;
+	float: right;
+	margin-right: 5px;
+
+}
+.one3{
+	border: 1px solid green;
+	width: 100px;
+	float: left;
+}
+//có thể dùng clear hoặc overflow
+/*.clear{
+	clear: both;
+}*/

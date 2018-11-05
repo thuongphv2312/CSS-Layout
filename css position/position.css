@@ -1,0 +1,32 @@
+*{
+	margin: 0 auto
+}
+body{
+	height: 1200px;
+	width: auto;
+}
+img{
+	position: relative;
+	top:69px;
+	left: 200px;
+}
+.div2{
+	position: relative;
+	height: 400px;
+	width:900px;
+	border: 1px solid red;
+}
+.div2 img{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.div3{
+	border: 1px solid blue;
+	background-color: yellow;
+	width: 20%;
+	height: 20%;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+}

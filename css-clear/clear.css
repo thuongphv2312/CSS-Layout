@@ -1,0 +1,11 @@
+.one{
+	border: 1px solid red;
+	width: 900px;
+	margin: 0 auto;
+}
+.one img{
+	float: right;
+}
+.clear{
+	clear: right;
+}
