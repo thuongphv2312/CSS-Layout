@@ -9,7 +9,7 @@
 7. [css-max-width](https://thuongphv2312.github.io/CSS-Layout/css-max-width/cssmax-width)
 8. [css-percentwidth](https://thuongphv2312.github.io/CSS-Layout/css-percentwidth/percentwidth)
 9. [floatlayoutexample](https://thuongphv2312.github.io/CSS-Layout/floatlayoutexample/floatlayoutexample)
-10. [the-box-model](https://thuongphv2312.github.io/CSS-Layout/the-box-model/the-box-model)
+10. [the-box-model](https://thuongphv2312.github.io/CSS-Layout/the-box-model/box-model)
 11. [](https://thuongphv2312.github.io/CSS-Layout/)
 12. [](https://thuongphv2312.github.io/CSS-Layout/)
 13. [](https://thuongphv2312.github.io/CSS-Layout/)
