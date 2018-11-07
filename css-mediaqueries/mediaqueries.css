@@ -1,0 +1,35 @@
+
+.topp{
+	min-width: 424px;
+	width:90%;
+	border: 5px solid red;
+	padding: 10px 10px;
+}
+.m{
+	margin-left: 25%;
+	border: 1px solid blue;
+}
+.mm{
+	width: 24%;
+	border: 1px solid yellow;
+}
+.mmm{
+	margin-left: 25%;
+	border:1px solid green;
+}
+@media screen and (max-width: 600px){
+	.mm{
+		width: 100%;
+	}
+	.mm ul li{
+		display: inline;
+	}
+	.m{
+		margin: 0 auto;
+		width: 100%;
+	}
+	.mmm{
+		margin: 0 auto;
+		width: 100%;
+	}
+}

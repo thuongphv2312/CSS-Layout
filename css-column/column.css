@@ -1,0 +1,7 @@
+div {
+	columns: 3;
+	column-gap:50px;
+	column-rule-style:solid;
+	column-rule-color: lightblue;
+	column-rule-width: 10px;
+}

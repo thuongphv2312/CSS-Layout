@@ -1,0 +1,28 @@
+
+.topp{
+	margin :0 auto;
+	min-width: 424px;
+	width:90%;
+	border: 5px solid red;
+	padding: 10px 10px;
+}
+.m{
+	border: 1px solid blue;
+}
+.mm{
+	vertical-align: top;
+	display: inline-block;
+	width: 25%;
+	border: 1px solid yellow;
+}
+.mmm{
+
+	border:1px solid green;
+}
+.column{
+	vertical-align: top;
+	width: 73%;
+	padding: 5px;
+	display: inline-block;
+	border: 1px solid black;
+}

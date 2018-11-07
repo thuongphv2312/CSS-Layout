@@ -1,10 +1,17 @@
-div{
+.cc{
 	border: 1px solid red;
-	width: auto;
+	width: 50%;
 	margin: 0 auto;
 	overflow: auto;
 }
-img{
-	float :right;
-	width: 25%;
+.t{
+	float: left;
+	width: 50%;
+}
+.tt{
+	float: right;
+	width: 50%;
+}
+.tt img{
+	width: 100%;
 }
